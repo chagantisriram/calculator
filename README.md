@@ -1,2 +1,2 @@
-# calculator
-basic calculator
+# qr generation
+generating qr code
